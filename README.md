@@ -1,6 +1,14 @@
 # Encontre o Rato!
 
+**JavaScript · p5.js · Jogo de navegador**
+
 Este foi um dos primeiros projetos que fiz na faculdade, na disciplina de **Lógica de Programação**. Usei JavaScript e p5.js para criar um jogo que combina uma busca por um rato escondido com perguntas de verdadeiro ou falso. Foi uma das minhas primeiras experiências usando vetores, condicionais, laços e eventos do mouse em um projeto interativo.
+
+<p align="center">
+  <img src="docs/img/tela-inicial.png" alt="Tela inicial do jogo com o rato e dez caixas marcadas com pontos de interrogação" width="400">
+</p>
+
+Prévia da tela inicial renderizada a partir dos comandos de desenho do jogo.
 
 ## Como jogar
 
